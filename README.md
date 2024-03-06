@@ -1,1 +1,25 @@
-# 리액트 톺아보기 <img src="https://github.com/Scrutinize-React-Deep-Dive/.github/assets/48350491/fc76fb79-7a9e-448b-ab45-ceec3cdd9910" width="20" height="auto" alt="3d-mini-magnifying-glass" >
+<p align="center">
+  <img src="https://github.com/Scrutinize-React-Deep-Dive/.github/assets/48350491/032c5d2f-4ea3-4c7d-aaa7-c1652afff86d" width="440" alt="searchbar" />
+</p>
+
+# 리액트 톺아보기 
+
+이 저장소는 리액트(React)를 깊이 있게 학습하고자 하는 개발자들을 위한 자료를 담고 있습니다.
+
+<br>
+
+## 프로젝트
+
+<br>
+
+## 참여자
+
+
+<br>
+
+## 참고
+- [리액트 공식 문서](https://ko.reactjs.org/)
+- [리액트 가이드](https://beta.reactjs.org/learn)
+- [리액트 가이드(한국어 버전)](https://ko.reactjs.org/docs/getting-started.html)
+
+<br>
