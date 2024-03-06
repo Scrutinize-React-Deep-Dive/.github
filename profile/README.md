@@ -24,6 +24,14 @@
 
 <br>
 
+## 주차별 React 발표 내용
+
+| 주차 | 발표 자료 | 주제 | 발표자 | 비고 | 핵심 개념 |
+|------|-----------|------|--------|------|------------|
+| 1주차 | [링크](#) | 리액트 파이버 | 홍길동 | 리액트의 새로운 엔진, 파이버에 대한 소개 | 병렬 처리, 렌더링 성능 향상 |
+
+<br>
+
 ## 참여자
 
 
@@ -33,5 +41,6 @@
 - [리액트 공식 문서](https://ko.reactjs.org/)
 - [리액트 가이드](https://beta.reactjs.org/learn)
 - [리액트 가이드(한국어 버전)](https://ko.reactjs.org/docs/getting-started.html)
+- [모던 리액트 Deep Dive, 김용찬, 위키북스(2023)](https://product.kyobobook.co.kr/detail/S000210725203)
 
 <br>
