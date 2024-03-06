@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScrutinize-React-Deep-Dive&count_bg=%233A806B&title_bg=%2329564E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
 <p align="center">
   <img src="https://github.com/Scrutinize-React-Deep-Dive/.github/assets/48350491/032c5d2f-4ea3-4c7d-aaa7-c1652afff86d" width="440" alt="searchbar" />
 </p>
