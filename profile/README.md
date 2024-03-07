@@ -13,7 +13,7 @@
 <br>
 
 ## 프로젝트
-| 작업자 | 프로젝트1(개인) | 프로젝트2(공동) | 프로젝트3(개인) | 기술 스택 | 설명 | 데모 링크 |
+| 작업자 | 프로젝트1 | 프로젝트2 | 프로젝트3 | 기술 스택 | 설명 | 데모 링크 |
 | ------ | ------------ | ------ | ------ | --------- | ---- | --------- |
 |        |              |        |        |           |      | [데모](https://) |
 |        |              |        |        |           |      | [데모](https://) |
@@ -24,15 +24,28 @@
 
 <br>
 
-## 바로가기
+## 그 밖의
 
-<br>
+| # | Repo | 링크 | 목적 |
+|:-------:|-------|-------|-------|
+| 0   | React-Deep-Dive | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/discussions)   | React 스터디 운영 및 공지사항 |
+| 1   | weekly-react-presentations | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/weekly-react-presentations)   | 주차별 React 발표 자료를 공유하는 저장소입니다. |
+| 2   | React-Interview-Questions-and-Answers   | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/React-Interview-Questions-and-Answers)   | React에 관한 질문과 답변을 위한 저장소입니다. |
+<!-- | 2   | 열2   | 열3   |열3   | -->
+
+
+<br> 
 
 ## 주차별 React 발표 내용
 
 | 주차 | 발표 자료 | 주제 | 발표자 | 비고 | 핵심 개념 |
 |------|-----------|------|--------|------|------------|
 | 1주차 | [링크](#) | 리액트 파이버 | 홍길동 | 리액트의 새로운 엔진, 파이버에 대한 소개 | 병렬 처리, 렌더링 성능 향상 |
+
+<br> 
+
+## 스터디 일정
+
 
 <br>
 
