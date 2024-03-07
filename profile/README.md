@@ -46,5 +46,6 @@
 - [리액트 가이드](https://beta.reactjs.org/learn)
 - [리액트 가이드(한국어 버전)](https://ko.reactjs.org/docs/getting-started.html)
 - [모던 리액트 Deep Dive, 김용찬, 위키북스(2023)](https://product.kyobobook.co.kr/detail/S000210725203)
+- [우아한 타입스크립트 with 리액트, 우아한형제들 웹프론트개발그룹, 권기석, 권세진, 고우혁, 김정혁 저 외 13명, 한빛미디어(2023년 10월 31일)](https://m.yes24.com/Goods/Detail/123049083)
 
 <br>
