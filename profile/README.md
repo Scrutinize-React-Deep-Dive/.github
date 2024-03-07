@@ -31,7 +31,7 @@
 | 0   | React-Deep-Dive | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/discussions)   | React 스터디 운영 및 공지사항 |
 | 1   | weekly-react-presentations | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/weekly-react-presentations)   | 주차별 React 발표 자료를 공유하는 저장소입니다. |
 | 2   | React-Interview-Questions-and-Answers   | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/React-Interview-Questions-and-Answers)   | React에 관한 질문과 답변을 위한 저장소입니다. |
-<!-- | 2   | 열2   | 열3   |열3   | -->
+<!-- |    |    |    |    | -->
 
 
 <br> 
@@ -44,7 +44,16 @@
 
 <br> 
 
-## 스터디 일정
+## 스터디
+
+| # | 헤더2 | 링크 |
+|:-------:|-------|-------|
+| 1   | Weekly 스크럼 | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/projects/4/views/1)   |
+| 2   | 스터디 스프린트 | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/projects/1)   |
+| 3   | 전체 일정  | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/projects/3)   |
+| 4   | 프로젝트 스프린트   | 바로가기   |
+
+<!-- |    |    |    | -->
 
 
 <br>
