@@ -51,7 +51,7 @@
 | 1   | Weekly 스크럼 | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/projects/4/views/1)   |
 | 2   | 스터디 스프린트 | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/projects/1)   |
 | 3   | 전체 일정  | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/projects/3)   |
-| 4   | 프로젝트 스프린트   | 바로가기   |
+| 4   | 프로젝트 스프린트 | [바로가기](https://github.com/orgs/Scrutinize-React-Deep-Dive/projects/5/views/1)   |
 
 <!-- |    |    |    | -->
 
