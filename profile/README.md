@@ -15,12 +15,12 @@
 ## 프로젝트
 | 참여자 | 프로젝트1 | 프로젝트2 | 프로젝트3 | 기술 스택 | 설명 | 데모 링크 |
 | ------ | ------------ | ------ | ------ | --------- | ---- | --------- |
-| functionBee  |              |        |        |           |      | [데모](https://) |
-| HyekJung |              |        |        |           |      | [데모](https://) |
-| valueinvestment |              |        |        |           |      | [데모](https://) |
-| dhp94d |              |        |        |           |      | [데모](https://) |
-| NYeonK |              |        |        |           |      | [데모](https://) |
-| park-jian |              |        |        |           |      | [데모](https://) |
+| functionBee  | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-functionBee) |        |        |           |      | [데모](https://) |
+| HyekJung | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-HyekJung)  |        |        |           |      | [데모](https://) |
+| valueinvestment | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-valueinvestment) |        |        |           |      | [데모](https://) |
+| dhp94d | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-dhp94d) |        |        |           |      | [데모](https://) |
+| NYeonK | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-NYeonK) |        |        |           |      | [데모](https://) |
+| park-jian | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-jian)  |        |        |           |      | [데모](https://) |
 
 <br>
 
