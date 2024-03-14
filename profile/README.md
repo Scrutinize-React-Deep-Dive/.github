@@ -16,7 +16,6 @@
 | 참여자 | 프로젝트1 | 프로젝트2 | 프로젝트3 | 기술 스택 | 설명 | 데모 링크 |
 | ------ | ------------ | ------ | ------ | --------- | ---- | --------- |
 | functionBee  | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-functionBee) |        |        |           |      | [데모](https://) |
-| HyekJung | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-HyekJung)  |        |        |           |      | [데모](https://) |
 | valueinvestment | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-valueinvestment) |        |        |           |      | [데모](https://) |
 | dhp94d | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-dhp94d) |        |        |           |      | [데모](https://) |
 | NYeonK | [바로가기](https://github.com/Scrutinize-React-Deep-Dive/personal-project-park-NYeonK) |        |        |           |      | [데모](https://) |
@@ -63,11 +62,10 @@
 <table>
 <tr>
 <td align="center"><a href="https://github.com/functionBee"><img alt="functionBee" src="https://avatars.githubusercontent.com/u/48350491?v=4" width="117" /><br />functionBee</a></td>
-<td align="center"><a href="https://github.com/HyekJung"><img alt="HyekJung" src="https://avatars.githubusercontent.com/u/155180714?v=4" width="117" /><br />HyekJung</a></td>
 <td align="center"><a href="https://github.com/valueinvestment"><img alt="valueinvestment" src="https://avatars.githubusercontent.com/u/78516146?v=4" width="117" /><br />valueinvestment</a></td>
+<td align="center"><a href="https://github.com/dhp94d"><img alt="dhp94d" src="https://avatars.githubusercontent.com/u/68668924?v=4" width="117" /><br />dhp94d</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/dhp94d"><img alt="dhp94d" src="https://avatars.githubusercontent.com/u/68668924?v=4" width="117" /><br />dhp94d</a></td>
 <td align="center"><a href="https://github.com/NYeonK"><img alt="NYeonK" src="https://avatars.githubusercontent.com/u/71490862?v=4" width="117" /><br />NYeonK</a></td>
 <td align="center"><a href="https://github.com/park-jian"><img alt="park-jian" src="https://avatars.githubusercontent.com/u/69693320?v=4" width="117" /><br />park-jian</a></td>
 </tr>
