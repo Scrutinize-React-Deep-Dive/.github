@@ -70,7 +70,7 @@
 <tr>
 <td align="center"><a href="https://github.com/NYeonK"><img alt="NYeonK" src="https://avatars.githubusercontent.com/u/71490862?v=4" width="117" /><br />NYeonK</a></td>
 <td align="center"><a href="https://github.com/park-jian"><img alt="park-jian" src="https://avatars.githubusercontent.com/u/69693320?v=4" width="117" /><br />park-jian</a></td>
-<td align="center"><a href="https://github.com/sanghwan1101"><img alt="park-jian" src="https://avatars.githubusercontent.com/u/149642561?v=4" width="117" /><br />park-jian</a></td>
+<td align="center"><a href="https://github.com/sanghwan1101"><img alt="park-jian" src="https://avatars.githubusercontent.com/u/149642561?v=4" width="117" /><br />sanghwan1101</a></td>
 </tr>
 </table>
 
