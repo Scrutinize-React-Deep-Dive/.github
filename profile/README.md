@@ -32,9 +32,9 @@
 |------|----|------------|------------| --- |
 | 1주차 | `✅`  | 2024-05-03 | Chapter 1  | 리액트 개발을 위해 꼭 알아야 할 자바스크립트 |
 | 2주차 | `✅`  | 2024-05-12 | Chapter 2  | 리액트 핵심 요소 깊게 살펴보기 |
-| 3주차 | ` `  | 2024-05-26 | Chapter 3  | 리액트 훅 깊게 살펴보기 |
-| 4주차 | ` `  | 2024-06-02 | Chapter 4  | 서버 사이드 렌더링 |
-| 5주차 | ` `  | 2024-06-09 | Chapter 5  | 리액트와 상태 관리 라이브러리 |
+| 3주차 | `✅`  | 2024-06-16 | Chapter 3  | 리액트 훅 깊게 살펴보기 |
+| 4주차 | `✅`  | 2024-06-23 | Chapter 4  | 서버 사이드 렌더링 |
+| 5주차 | `✅`  | 2024-06-23 | Chapter 5  | 리액트와 상태 관리 라이브러리 |
 | 6주차 | ` `  | 2024-06-16 | Chapter 6  | 리액트 개발 도구로 디버깅하기 |
 | 7주차 | ` `  | 2024-06-23 | Chapter 7  | 크롬 개발자 도구를 활용한 애플리케이션 분석 |
 | 8주차 | ` `  | 2024-06-30 | Chapter 8  | 좋은 리액트 코드 작성을 위한 환경 구축하기 |
@@ -51,10 +51,10 @@
 ## 🌐 챕터별 질문 리스트 바로가기
 
 - [Chapter1](https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/discussions/56)
-- [Chapter2](https://...)
-- [Chapter3](https://...)
-- [Chapter4](https://...)
-- [Chapter5](https://...)
+- Chapter2
+- [Chapter3](https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/issues/83)
+- [Chapter4](https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/issues/118)
+- [Chapter5]([https://...](https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/issues/145))
 - [Chapter6](https://...)
 - [Chapter7](https://...)
 - [Chapter8](https://...)
@@ -68,26 +68,14 @@
 
 <br>
 
-## 🎤 발표자
-
-|   | ch.1 | ch.2 | ch.3 | ch.4 | ch.5 | ch.6 | ch.7 | ch.8 | ch.9 | ch.10 | ch.11 | ch.12 |
-|:---:|:---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:|
-| 박성빈 | ` ` | `🎤` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
-| 정유석 | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
-| 고나연 | `🎤` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
-| 최승훈 | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
-
-
-<br>
-
 ## ⚠️ 불참자
 
 |   | ch.1 | ch.2 | ch.3 | ch.4 | ch.5 | ch.6 | ch.7 | ch.8 | ch.9 | ch.10 | ch.11 | ch.12 |
 |:---:|:---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:|
 | 박성빈 | `❌` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
-| 정유석 | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
+| 정유석 | ` ` | ` ` | `❌` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
 | 고나연 | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
-| 최승훈 | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
+| 최승훈 | ` ` | `❌` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` | ` ` |  ` ` |  ` ` |  ` ` |
 
 <br>
 
@@ -99,3 +87,4 @@
 | <img src="https://avatars.githubusercontent.com/u/78193416?s=96&v=4" width="60" height="60"> | [youseock](https://github.com/orgs/Scrutinize-React-Deep-Dive/people/mahwin) |
 | <img src="https://avatars.githubusercontent.com/u/71490862?s=96&v=4" width="60" height="60"> | [고나연](https://github.com/orgs/Scrutinize-React-Deep-Dive/people/NYeonK) |
 | <img src="https://avatars.githubusercontent.com/u/78516146?s=96&v=4" width="60" height="60"> | [SEUNGHOON CHOI](https://github.com/orgs/Scrutinize-React-Deep-Dive/people/valueinvestment) |
+
